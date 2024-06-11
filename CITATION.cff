@@ -1,0 +1,9 @@
+@software{BJP_STAN_2024,
+  author = {Javanshiri, Zohreh},
+  doi = {10.5281/zenodo.11561227},
+  month = {5},
+  title = {{BJP_STAN_2024}},
+  url = {https://github.com/javanshiri/BJP-Precipitation-Urmia-Lake},
+  version = {1.0.0},
+  year = {2024}
+}
